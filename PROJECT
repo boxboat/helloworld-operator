@@ -1,0 +1,3 @@
+domain: my.domain
+repo: gothub.com/boxboat/helloworld-operator
+version: "2"
